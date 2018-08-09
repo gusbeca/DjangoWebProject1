@@ -261,3 +261,4 @@ __pycache__/
 *.pyc
 /DjangoWebProject1/env
 /DjangoWebProject1/env1
+/DjangoWeb/env
